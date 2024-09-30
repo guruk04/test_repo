@@ -4,10 +4,18 @@ add()
 {
   print("Addition");
 }
+
 sub();
 mul()
   {
   print("Multiplication.");
 }
-div();
+
+sub()
+  {
+  print("Substraction");
+}
+mul();
+
+
 }

@@ -7,7 +7,7 @@ add()
 sub();
 mul()
   {
-  print("Multiplication");
+  print("Multiplication.");
 }
 div();
 }

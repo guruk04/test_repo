@@ -5,6 +5,9 @@ add()
   print("Addition");
 }
 sub();
-mul();
+mul()
+  {
+  print("Multiplication");
+}
 div();
 }

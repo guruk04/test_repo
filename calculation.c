@@ -14,7 +14,10 @@ sub()
   {
   print("Substraction");
 }
-div();
+div()
+  {
+  print("Divison");
+}
 
 
 }
